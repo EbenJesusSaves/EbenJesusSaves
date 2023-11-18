@@ -23,11 +23,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenjesussaves&show_icons=true&locale=en&layout=compact" alt="ebenjesussaves" />
 
-
+<img align="center" src="https://stats.quine.sh/EbenJesusSaves/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves" alt="ebenjesussaves" />
 </p>
 <p>
 <img align="center" src="https://stats.quine.sh/EbenJesusSaves/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves" alt="ebenjesussaves" />
-<img align="center" src="https://stats.quine.sh/EbenJesusSaves/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves" alt="ebenjesussaves" /></p>
+</p>
 <!---
 EbenJesusSaves/EbenJesusSaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
