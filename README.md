@@ -27,7 +27,7 @@
 <img align="center" src="https://stats.quine.sh/EbenJesusSaves/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves" alt="ebenjesussaves" />
 
 </p>
-
+<img align="center" src="https://stats.quine.sh/EbenJesusSaves/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves" alt="ebenjesussaves" />
 
 <!---
 EbenJesusSaves/EbenJesusSaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
