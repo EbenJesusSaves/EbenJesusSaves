@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Transclosure and BPO Tech**
+- 🔭 I’m currently working on **Transclosure and BPO Tech project**
 
 - 🌱 I’m currently learning **learning Kotlin for Andriod, Python for Backend**
 
