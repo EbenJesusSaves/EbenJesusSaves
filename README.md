@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **learning Kotlin for Andriod, Python for Backend**
 
-- 👯 I’m looking to collaborate on **Web and Mobile Apps**
+- 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
 - 💬 Ask me about **React, React Native, Next Js, JavaScript, TypeScript**
 
