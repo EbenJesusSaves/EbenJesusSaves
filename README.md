@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Transclosure and BPO Tech project**
 
-- 🌱 I’m currently learning **learning Kotlin for Andriod, Python for Backend**
+- 🌱 I’m currently learning **Node, Express and MongoDB for Backend**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
