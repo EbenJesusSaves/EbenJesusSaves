@@ -80,7 +80,7 @@
         target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
             width="40" height="40" /> </a>
 </p>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;" display="flex" >
     <div><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenjesussaves&show_icons=true&locale=en&layout=compact"
             alt="ebenjesussaves" width="auto" />
