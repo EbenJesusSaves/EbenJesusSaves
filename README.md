@@ -81,15 +81,12 @@
             width="40" height="40" /> </a>
 </p>
 <div style="display: flex; align-items: center;" display="flex" >
-    <div><img align="center"
+<img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenjesussaves&show_icons=true&locale=en&layout=compact"
             alt="ebenjesussaves" width="auto" />
-    </div>
-    <div>
         <img align="center"
             src="https://stats.quine.sh/EbenJesusSaves/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves"
             alt="ebenjesussaves" width="auto" />
-    </div>
 </div>
 <p>
     <img align="center"
