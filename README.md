@@ -22,7 +22,7 @@
             alt="https://www.linkedin.com/in/agyekum-ebenezer-b24611129/" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?EbenJesusSaves=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
@@ -95,6 +95,10 @@
         src="https://stats.quine.sh/EbenJesusSaves/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=EbenJesusSaves"
         alt="ebenjesussaves" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?EbenJesusSaves=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?EbenJesusSaves=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 EbenJesusSaves/EbenJesusSaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
