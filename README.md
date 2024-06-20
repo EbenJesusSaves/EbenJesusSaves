@@ -21,7 +21,8 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/agyekum-ebenezer-b24611129/" height="30" width="40" /></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?EbenJesusSaves=ryo-ma&row=2&column=3)](https://profiler-six.vercel.app/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?EbenJesusSaves=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
